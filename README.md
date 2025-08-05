@@ -6,7 +6,7 @@ I'm a passionate full-stack developer focused on building robust, scalable, and 
 🚀 Focused on clean code and performance  
 🤝 Open to collaboration on interesting and impactful projects  
 🎯 Currently exploring: AI automation, Agents, MCP, and GenAI  
-🌍 I'm open for **remote** work in EU and US time zones
+🌍 I'm **open for remote** contracts in EU and US time zones
 
 💼 Currently working as a **solo founder** on [wygenerowani.pl](https://wygenerowani.pl) — an AI-powered site generation web-engine that includes automatic deployment and hosting.
 
